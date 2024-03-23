@@ -1,0 +1,16 @@
+$color:red;
+
+ul{
+    font-size: 14px;
+    color: $color;
+}
+
+ol{
+    font-size: 18px;
+    color: $color;
+}
+
+// dosesnt understand scss only understand css 
+// it has two steps 
+// first needed to take sas code compile it into css and then could link the css to particular page
+ //variable.scss:variable.css
